@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQHMMJcCbAXtmg/article-cover_image-shrink_600_2000/0/1641482418001?e=2147483647&v=beta&t=-_Ti0Mxj1am8TTn3VICotbj9RRJ8wa_HhjEMM2WLQfI)
 <h1 align="center">Hi 👋, I'm Shah Khalid ul Islam</h1>
-<h3 align="center">An AI Engineer with expert level experience in the field of Artificial intelligence. Here I will be posting my projects related Machine Learning and DeepLearning.</h3>
+<h3 align="center">An AI Engineer with expert level experience in the field of Artificial intelligence. Here I will be posting my projects related to Machine Learning and DeepLearning.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*oB3S5yHHhvougJkPXuc8og.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shah77966&label=Profile%20views&color=0e75b6&style=flat" alt="shah77966" /> </p>
 
